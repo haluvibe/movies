@@ -1,0 +1,10 @@
+
+
+.l-absolute-centered {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    right: 10%;
+    max-height: 80%;
+    -ms-transform: translate(0, -50%);
+        transform: translate(0, -50%); }
