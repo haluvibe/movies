@@ -1,3 +1,3 @@
 ## Evaluation
 
-Skeleton project converted to React for evaluation
+Technical test for DAZN
